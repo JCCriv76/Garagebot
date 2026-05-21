@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <garage id="1">
+        <vin>3TMCZ5AN8GM006517</vin>
+        <year>2016</year>
+        <make>Toyota</make>
+        <model>Tacoma</model>
+        <LicensePlate>AFB4254</LicensePlate>
+        <grossWeight>4480</grossWeight>
+        <trim>TRD Sport</trim>
+        <style>Double Cab</style>
+        <series>GRN305L</series>
+        <GVWR>Class 1D:5,001-6,000 lbs</GVWR>
+        <engine>3.5L V6 DOHC 24V</engine>
+        <engineCode>2GR-FKS</engineCode>
+    </garage>
+    <category id="Brakes and Tires">
+        <item>Front Brake Pads</item>
+          <last_serviced>58000 miles</last_serviced>
+          <interval>50000 miles</interval>
+          <next_service>108000 miles</next_service>
+          <PartNumber>04465-0P010</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <Notes>Replace when worn down to 3mm or less.</Notes>
+        <item>Rear Brake Pads</item>
+          <last_serviced>0 miles</last_serviced>
+          <interval>75000 miles</interval>
+          <next_service>75000 miles</next_service>
+          <PartNumber>04466-0P010</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <Notes>Replace when worn down to 3mm or less.</Notes>  
+        <item>Front Rotors</item>
+          <last_serviced>58000 miles</last_serviced>
+          <interval>50000 miles</interval>
+          <next_service>108000 miles</next_service>
+          <PartNumber>04467-0P010</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <Notes>Replace when worn down to 3mm or less.</Notes>
+        <item>Rear Rotors</item>
+          <last_serviced>0 miles</last_serviced>
+          <interval>75000 miles</interval>
+          <next_service>75000 miles</next_service>
+          <PartNumber>04468-0P010</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <Notes>Replace when worn down to 3mm or less.</Notes>
+        <item>Front Tires</item>
+          <last_serviced>27390 miles</last_serviced>
+          <interval>60000 miles</interval>
+          <next_service>87390 miles</next_service>
+          <PartNumber>P265/65R17</PartNumber>
+          <Brand>Goodyear</Brand>
+          <Notes>Replace when worn down to 3mm or less.</Notes>
+        <item>Rear Tires</item>
+          <last_serviced>27390 miles</last_serviced>
+          <interval>60000 miles</interval>
+          <next_service>87390 miles</next_service>
+          <PartNumber>P265/65R17</PartNumber>
+          <Brand>Goodyear</Brand>
+          <Notes>Replace when worn down to 3mm or less.</Notes>
+        <task>Rotate Tires</task>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>5000 miles</interval>
+          <next_service>66000 miles</next_service>
+          <spec>21mm socket, 83 lb-ft torque</Spec>
+          <Notes>Rotate tires every 5,000 miles to ensure even wear.</Notes>
+    </category>
+    <category id="Engine and Cooling">
+        <item>Engine Oil</item>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>5000 miles</interval>
+          <next_service>66000 miles</next_service>
+          <Quantity>6.2 quarts</Quantity>
+          <Type>0W-20</Type>
+          <spec>14mm socket, 30 lb-ft torque</spec>
+          <Notes>Cover: 12mm / Drain: 14mm</Notes>
+        <item>Cabin Air Filter</item>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>20000 miles</interval>
+          <next_service>81000 miles</next_service>
+          <PartNumber>TBC</PartNumber>
+          <Brand>OEM Equivalent</Brand>
+        <item>Engine Air Filter</item>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>10000 miles</interval>
+          <next_service>71000 miles</next_service>
+          <PartNumber>TBC</PartNumber>
+          <Brand>OEM Equivalent</Brand>
+        <item>Spark Plugs</item>
+          <last_serviced>0 miles</last_serviced>
+          <interval>75000 miles</interval>
+          <next_service>75000 miles</next_service>
+          <PartNumber>90919-01263</PartNumber>
+          <Brand>Denso 3491 FK20HBR8</Brand>
+          <spec>5/8" socket, 13 lb-ft torque</spec>
+          <Notes>Use Iridium spark plugs for optimal performance and longevity.</Notes>
+        <item>PCV Valve</item>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>20000 miles</interval>
+          <next_service>81000 miles</next_service>
+          <PartNumber>12204-0P010</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <Notes>Replace if clogged or damaged to maintain proper engine ventilation.</Notes>)
+        <item>Brake Fluid</item>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>25000 miles</interval>
+          <next_service>86000 miles</next_service>
+          <quantity>32 oz</quantity>
+          <PartNumber>FMVSS No.116DOT3</PartNumber>
+          <Brand>DOT 3</Brand>
+          <Notes>Use Toyota Super Long Life Brake Fluid (SLLBF) for optimal braking performance and protection.</Notes>
+        <item>Power Steering Fluid</item>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>50000 miles</interval>
+          <next_service>111000 miles</next_service>
+          <quantity>2 quarts</quantity>
+          <PartNumber>ATF DEXRON III</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <Notes>Use Toyota Power Steering Fluid (PSF-1) for optimal steering performance and protection.</Notes>
+        <item>Oil Control Valve</item>
+          <last_serviced>0 miles</last_serviced>
+          <interval>60000 miles</interval>
+          <next_service>60000 miles</next_service>
+          <PartNumber>15330-0P010</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <Notes>Replace if clogged or damaged to maintain proper engine performance and efficiency.</Notes>
+        <item>Coolant</item>
+          <last_serviced>0 miles</last_serviced>
+          <interval>75000 miles</interval>
+          <next_service>75000 miles</next_service>
+          <PartNumber>00272-AZ001</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <spec>Radiator Drain Plug: Hand, Block Drain: 9 lb-ft, No 1 Engine Under Cover: 22 lb-ft</spec>
+          <Notes>Use Toyota Super Long Life Coolant (SLLC) 50/50 pre-diluted.</Notes>
+    </category>
+    <category id="Transmission and Drivetrain">
+        <item>Transmission Fluid</item>
+          <last_serviced>55000 miles</last_serviced>
+          <interval>50000 miles</interval>
+          <next_service>110000 miles</next_service>
+          <quantity>4 quarts</quantity>
+          <PartNumber>ATF DEXRON III</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <spec>Transmission Pan Drain Plug: 14mm, 15 lb-ft, Transmission Fill: 24mm or 15/16", 29 lb-ft, Transmission Overflow: 5mm Hex, 15 lb-ft</spec>
+          <Notes>Use Toyota Automatic Transmission Fluid (ATF Type T-IV) for optimal transmission performance and protection.</Notes>
+        <item>Front Differential Oil</item>
+          <last_serviced>0 miles</last_serviced>
+          <interval>30000 miles</interval>
+          <next_service>30000 miles</next_service>
+          <quantity>1.6 quarts</quantity>
+          <PartNumber>75W-90 GL-5</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <spec>Front Differential Drain Plug: 10mm hex, 48 lb-ft, Front Differential Fill Plug: 10mm hex, 29 lb-ft</spec>
+          <Notes>Use Toyota Differential Gear Oil (DGO) for optimal differential performance and protection.</Notes>
+        <item>Rear Differential Oil</item>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>30000 miles</interval>
+          <next_service>91000 miles</next_service>
+          <quantity>3.1 - 4.2 quarts</quantity>
+          <PartNumber>75W-90 GL-5</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <spec>Rear Differential Drain Fill/Plug: 24mm, 36 lb-ft</spec>
+          <Notes>Use Toyota Differential Gear Oil (DGO) for optimal differential performance and protection.</Notes>
+        <item>Transfer Case Oil</item>
+          <last_serviced>61000 miles</last_serviced>
+          <interval>60000 miles</interval>
+          <next_service>121000 miles</next_service>
+          <quantity>1.1 quarts</quantity>
+          <PartNumber>LF 75W</PartNumber>
+          <Brand>Genuine Toyota</Brand>
+          <spec>Transfer Case Fill/Drain Plug:24mm, 27 lb-ft</spec>
+          <Notes>Use Toyota Differential Gear Oil (DGO) for optimal transfer case performance and protection.</Notes>
+        <task>Tighten Leaf Springs U-Bolts</task>
+          <last_serviced>0 miles</last_serviced>
+          <interval>10000 miles</interval>
+          <next_service>10000 miles</next_service>
+          <quantity>4x 19mm bolts</quantity>
+          <torque>52 lb-ft</torque>
+          <Notes>One set per wheel.</Notes>
+        <task>Grease Propeller shaft</task>
+          <last_serviced>0 miles</last_serviced>
+          <interval>15000 miles</interval>
+          <next_service>15000 miles</next_service>
+          <Notes>1. U Joint = driveshart connects to diff, 2. Attach to Zerk fitting; grease until purge, 3. Remove heat shield (12mm), 4. Repeat step 1-2</Notes>
+        <task>Tighten Propeller Shaft</task>
+          <last_serviced>0 miles</last_serviced>
+          <interval>15000 miles</interval>
+          <next_service>15000 miles</next_service>
+          <quantity>12mm bolt, 14/17mm U-Joint, 14mm Diff Flanges</quantity>
+          <torque>65 lb-ft</torque>
+          <Notes>1. Remove heat shield at rear of xfer case, 2. U-Joint: 65 lb-ft, 3. Differential Flanges</Notes>
+    </category>
+</root>
